@@ -1,4 +1,5 @@
-$ cd method_hub_nodejs
+1. git clone https://github.com/nagababu27/methodhub_node.git
+$ cd methodhub_node
 $ npm install
 $ node server.js
 ```
